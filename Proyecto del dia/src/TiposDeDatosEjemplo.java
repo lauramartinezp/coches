@@ -60,6 +60,9 @@ public class TiposDeDatosEjemplo {
 		int entero1=12;
 		Integer entero2= new Integer(12);
 		
+		int entero3= entero2.intValue();
+		
+		
 		
 	}
 
